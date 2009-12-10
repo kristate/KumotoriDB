@@ -1,0 +1,12 @@
+KumotoriDB (雲取DB in Japanese) is a distibuted datastore management system that is currently developed at BlueBridge k.k. in Tokyo.
+
+The name comes from Tokyo's tallest mountain, Kumotori-yama. The chinese characters literally mean to "take from the clouds."
+
+This is the open source version of the project. Unfortunately due to the tight integration with BlueBridge's cluster-based system,
+we are working on bringing as much of the source open as possible. No timeframe is available at this time.
+
+KumotoriDB currently powers the following websites:
+
+- http://am6.jp
+- http://keireki.jp
+- http://feedtweet.jp
